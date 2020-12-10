@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <string name="quantity">quantity</string>
+    <string name="name">Thing name</string>
+    <string name="price">Price</string>
+    <string name="suppliers">Supplier</string>
+
+
+
+    <string name="invalid_name">Invalid Name</string>
+    <string name="invalid_email">Invalid Quantity</string>
+    <string name="invalid_phone">Invalid Price</string>
+    <string name="invalid_supplier">Invalid Supplier</string>
+    <string name="Thing">Thing</string>
+    <string name="are_you_sure">Are you sure to delete this?</string>
+    <string name="no_contacts">You have no items, add some.</string>
+    <string name="take_photo">Take Photo</string>
+
+</resources>
